@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Camera"
+             x:Class="Camera.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btnTakePhoto"
+                    Text="Fotoğraf Çek"
+                    Clicked="btnTakePhoto_Clicked"/>
+            <Button x:Name="btnPickPhoto"
+                    Text="Fotoğraf Seç"
+                    Clicked="btnPickPhoto_Clicked"/>
+            <Button x:Name="btnTakeVideo"
+                    Text="Video Çek"/>
+            <Button x:Name="btnPickVideo"
+                    Text="Video Seç"
+                    Clicked="btnPickVideo_Clicked"/>
+            <Image x:Name="image"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

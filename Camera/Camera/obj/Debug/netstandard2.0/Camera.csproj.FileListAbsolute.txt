@@ -1,0 +1,11 @@
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.deps.json
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.dll
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\bin\Debug\netstandard2.0\Camera.pdb
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.csprojResolveAssemblyReference.cache
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.csproj.CoreCompileInputs.cache
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.App.xaml.g.cs
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.MainPage.xaml.g.cs
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.AssemblyInfoInputs.cache
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.AssemblyInfo.cs
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.dll
+C:\Users\OmerSezer\Documents\Projects\Camera\Camera\Camera\obj\Debug\netstandard2.0\Camera.pdb
